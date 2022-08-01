@@ -1,0 +1,48 @@
+
+#c1 {
+  text-align:center;
+  background-color:rgb(145, 216, 145);
+  color:black;
+  width:100%;
+  height:100px;
+  margin: 0px auto; 
+}
+.c3{
+  font-family: 'Times New Roman', Times, serif;
+  font:size 100px;
+  font-style: calc();
+  text-align:left;
+  padding: 15px;
+}
+
+.topbar
+{
+ background:black;
+ width:100%;
+ height:20px;
+
+}
+.city {
+  background-color: rgb(178, 168, 214);
+  color:black;
+  text-align:justify;
+}
+.city1 {
+  background-color: rgb(172, 227, 243);
+  color:black;
+  padding: 40px;
+  text-align:justify;
+  border:1px solid powderblue;
+}
+.c2{
+  border:1px solid black;
+  text-align:left;
+  width:100%;
+  border: 1px solid black;
+  background-color:rgba(255, 99, 71, 0.2);
+}
+.f1{
+  background-color: rgb(178, 168, 214); 
+}
+
+
